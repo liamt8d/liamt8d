@@ -1,32 +1,32 @@
 <div align="center">
 
-# ✧ Hi, I'm Liam ✧
+# ✧ ¡Hola, soy Liam! ✧
 
 <a href="https://liamt.xyz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B48EAD&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Discord+Community+Mod;Bot+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B48EAD&center=true&vCenter=true&width=450&lines=Desarrollador+Full-Stack;Moderador+de+Comunidad+Discord;Desarrollador+de+Bots" alt="Typing SVG" />
 </a>
 
-*Passionate about creating efficient systems, modern web platforms, and managing digital communities.*
+*Apasionado por crear sistemas eficientes, plataformas web modernas y gestionar comunidades digitales.*
 
 <br>
 
-[![Website](https://img.shields.io/badge/Visit_my_Website-141321?style=for-the-badge&logo=vercel&logoColor=white)](https://liamt.xyz)
-[![Discord](https://img.shields.io/badge/Add_me_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/293504726505357312)
+[![Website](https://img.shields.io/badge/Visitar_mi_Web-141321?style=for-the-badge&logo=vercel&logoColor=white)](https://liamt.xyz)
+[![Discord](https://img.shields.io/badge/Añádeme_en_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/293504726505357312)
 
 </div>
 
 ---
 
-### 🌸 About Me
-- 💻 **Full-Stack Developer:** Building clean and responsive interfaces using **Next.js**, **React**, and **Tailwind CSS**.
-- 🤖 **Bots & Automation:** Creating comprehensive Discord bots like **Bli Bot** using **Python**, **Node.js**, and databases like **MongoDB** & **SQL**.
-- 🛡️ **Community Management:** Agency founder at **Skirr**, providing custom bots and professional moderation for Discord and Minecraft communities.
-- 🎮 **In my free time:** Enjoying Minecraft Java Edition, usually optimized with technical mods.
-- 🎨 **Visual Design:** Focused on maintaining a soft, harmonious aesthetic across my projects and interfaces.
+### 🌸 Sobre mí
+- 💻 **Desarrollador Full-Stack:** Construyo interfaces limpias y responsivas usando **Next.js**, **React** y **Tailwind CSS**.
+- 🤖 **Bots y Automatización:** Creo Discord bots completos como **Bli Bot** usando **Python**, **Node.js** y bases de datos como **MongoDB** y **SQL**.
+- 🛡️ **Gestión de Comunidades:** Fundador de **Skirr**, una agencia que ofrece bots personalizados y moderación profesional para comunidades de Discord y Minecraft.
+- 🎮 **En mi tiempo libre:** Disfruto de Minecraft Java Edition, usualmente optimizado con mods técnicos.
+- 🎨 **Diseño Visual:** Enfocado en mantener una estética suave y armoniosa en mis proyectos e interfaces.
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -41,13 +41,13 @@
 
 <br>
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados
 
-| Project | Description | Stack |
+| Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **Liam's Portfolio** | Personal portfolio site showcasing my work. | `Astro` `Tailwind` |
-| **Bli Bot** | Comprehensive Discord bot for community features. | `Next.js` `TypeScript` |
-| **Urugordos Web** | Official landing page for the Urugordos community. | `Next.js` `TypeScript` |
+| **Portfolio de Liam** | Sitio web personal para mostrar mi trabajo. | `Astro` `Tailwind` |
+| **Bli Bot** | Discord bot completo con funciones para comunidades. | `Next.js` `TypeScript` |
+| **Urugordos Web** | Página oficial de la comunidad Urugordos. | `Next.js` `TypeScript` |
 
 ---
 
@@ -61,8 +61,8 @@
 ---
 
 <div align="center">
-  <h3>📫 Reach out to me</h3>
-  <p>If you have any questions or just want to chat, feel free to reach out!</p>
-  <p><strong>Discord user:</strong> ft8d</p>
-  <p>© 2026 Liam - Built with passion</p>
+  <h3>📫 Contáctame</h3>
+  <p>Si tienes preguntas o simplemente quieres charlar, ¡no dudes en contactarme!</p>
+  <p><strong>Usuario de Discord:</strong> ft8d</p>
+  <p>© 2026 Liam - Hecho con pasión</p>
 </div>
