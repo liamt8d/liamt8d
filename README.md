@@ -55,7 +55,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liamt8d&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liamt8d&layout=donut&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liamt8d&layout=donut&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" alt="Top Langs" />
 </div>
 
 ---
