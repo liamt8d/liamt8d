@@ -18,8 +18,8 @@
 ---
 
 ### 🌸 Sobre mí
-- 💻 **Desarrollador Full-Stack:** Construyo interfaces limpias y responsivas usando **Next.js**, **React** y **Tailwind CSS**.
-- 🤖 **Bots y Automatización:** Creo Discord bots completos como **Bli Bot** usando **Python**, **Node.js** y bases de datos como **MongoDB** y **SQL**.
+- 💻 **Desarrollador Full-Stack:** Construyo interfaces limpias y responsivas usando **Next.js**, **React**, **Tailwind CSS**, etc etc.
+- 🤖 **Bots y Automatización:** Creo Discord bots completos como **Bli Bot** usando **Python**, **Node.js**, etc etc y bases de datos como **MongoDB** y **SQL**.
 - 🛡️ **Gestión de Comunidades:** Fundador de **Skirr**, una agencia que ofrece bots personalizados y moderación profesional para comunidades de Discord y Minecraft.
 - 🎮 **En mi tiempo libre:** Disfruto de Minecraft Java Edition, usualmente optimizado con mods técnicos.
 - 🎨 **Diseño Visual:** Enfocado en mantener una estética suave y armoniosa en mis proyectos e interfaces.
@@ -46,8 +46,8 @@
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **Portfolio de Liam** | Sitio web personal para mostrar mi trabajo. | `Astro` `Tailwind` |
-| **Bli Bot** | Discord bot completo con funciones para comunidades. | `Next.js` `TypeScript` |
-| **Urugordos Web** | Página oficial de la comunidad Urugordos. | `Next.js` `TypeScript` |
+| **Bli Bot** | Web de un Discord bot completo con funciones para comunidades. | `Next.js` `TypeScript` |
+| **Urugordos Web** | Página web oficial de la comunidad Urugordos. | `Next.js` `TypeScript` |
 
 ---
 
@@ -64,5 +64,5 @@
   <h3>📫 Contáctame</h3>
   <p>Si tienes preguntas o simplemente quieres charlar, ¡no dudes en contactarme!</p>
   <p><strong>Usuario de Discord:</strong> ft8d</p>
-  <p>© 2026 Liam - Hecho con pasión</p>
+  <p>© 2026 Liam - Hecho con amor</p>
 </div>
