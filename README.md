@@ -54,8 +54,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liamt8d&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liamt8d&layout=donut&theme=tokyonight&hide_border=true&count_private=true&size_weight=0&count_weight=0" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liamt8d&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liamt8d&layout=donut&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" />
 </div>
 
 ---
