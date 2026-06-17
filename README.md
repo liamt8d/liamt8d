@@ -22,7 +22,6 @@
 - 🤖 **Bots y Automatización:** Creo Discord bots completos como **Bli Bot** usando **Python**, **Node.js**, etc etc y bases de datos como **MongoDB** y **SQL**.
 - 🛡️ **Gestión de Comunidades:** Fundador de **Skirr**, una agencia que ofrece bots personalizados y moderación profesional para comunidades de Discord y Minecraft.
 - 🎮 **En mi tiempo libre:** Disfruto de Minecraft Java Edition, usualmente optimizado con mods técnicos.
-- 🎨 **Diseño Visual:** Enfocado en mantener una estética suave y armoniosa en mis proyectos e interfaces.
 
 <br>
 
