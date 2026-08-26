@@ -15,12 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="#-english">🇬🇧 English</a> · <a href="#-español">🇪🇸 Español</a>
+  <a href="#english"><img src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f1ec-1f1e7.svg" width="22" height="16" alt="" /> English</a> · <a href="#español"><img src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f1ea-1f1f8.svg" width="22" height="16" alt="" /> Español</a>
 </p>
 
 ---
 
-## 🇬🇧 English
+<a name="english"></a>
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f1ec-1f1e7.svg" width="22" height="16" alt="" /> English
 
 ### 👋 Hey, I’m Liam
 
@@ -97,7 +98,8 @@ If you want to talk about web development, Discord bots, or community tooling, r
 
 ---
 
-## 🇪🇸 Español
+<a name="español"></a>
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f1ea-1f1f8.svg" width="22" height="16" alt="" /> Español
 
 <details>
 <summary>Ver la versión en español</summary>
